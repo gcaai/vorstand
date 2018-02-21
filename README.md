@@ -12,3 +12,11 @@ Dr. Han Xiao is a senior staff scientist at Tencent AI Lab. He was a senior rese
 LinkedIn: https://de.linkedin.com/in/hxiao87
 Twitter: https://twitter.com/hxiao
 Github: https://github.com/hanxiao
+
+## Dr. Hao Wu
+### Bio
+#### English
+Dr. Hao Wu is currently a PostDoc at Department of Mathematics and Computer Science, Freie Universität Berlin, and the head of research group "Machine Learning for Time Series" at Zuse Institute of Berlin. Previously Hao obtained his B.E. and Ph.D. in computer science and technology from Department of Computer Science and Technology, Tsinghua University, China. In 2018, he was awarded by the Recruitment Program for Young Professionals (known as the "Thousand Talents Plan for Young Scientists") from the Chinese government. His research interests include machine learning, time series analysis and their applications to molecular biology.
+
+#### Chinese
+吴昊博士目前在柏林自由大学数学与计算机系从事博士后工作，并兼任柏林楚泽研究所“时间序列的机器学习方法”研究组组长。在此之前，吴昊于中国清华大学分别获得计算机科学与技术专业的学士和博士学位。2018年，他入选了中国政府的青年千人计划项目。他的研究兴趣包括机器学习，时间序列分析，以及相关技术在分子生物学中的应用。
