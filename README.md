@@ -20,3 +20,15 @@ Dr. Hao Wu is currently a PostDoc at Department of Mathematics and Computer Scie
 
 #### Chinese
 吴昊博士目前在柏林自由大学数学与计算机系从事博士后工作，并兼任柏林楚泽研究所“时间序列的机器学习方法”研究组组长。在此之前，他于中国清华大学分别获得计算机科学与技术专业的学士和博士学位。2018年，吴昊入选了中国政府的“青年千人计划”项目。他的研究兴趣包括机器学习，时间序列分析，以及相关技术在分子生物学中的应用。
+
+
+## Shan Huang
+### Bio
+#### English
+Shan is a research engineer at Zalando, working on statistical methods of A/B testing. Prior to that, Shan was working at SAP Innovation Center on machine learning applictions in finance. Shan has a master degree of Computer Science from University of Bonn.
+
+#### Chinese
+黄山目前在Zalando的A/B测试组负责研究统计算法。在此之前，他在SAP Innovation Center做过金融领域的机器学习应用。黄山毕业于波恩大学计算机系。
+
+### Social
+LinkedIn: linkedin.com/in/cnshanhuang
