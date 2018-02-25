@@ -16,9 +16,9 @@ Github: https://github.com/hanxiao
 ## Raphael Kohler 拉斐尔
 ### Bio
 #### German
-Raphael arbeitet als Strategieberater bei BCG im Bereich Digitalisierung und Banken-IT. Er hat mehrere Jahre Erfahrung bei der konzeptionellen und operativen Datenmanagement, IT-Migrationen, quantitative Risikobewertung, Implementierung von neuen Verordnungen im finanziellen Risikomanagement und Projektmanagement.
+Raphael arbeitet als Strategieberater bei BCG im Bereich Digitalisierung und Banken-IT. Er hat mehrere Jahre Erfahrung im konzeptionellen und operativen Datenmanagement, IT-Migrationen, quantitative Risikobewertung, Implementierung neuer Verordnungen im Risikomanagement und Projektmanagement.
 
-Raphael ist fasziniert von den Einsatzmöglichkeiten von neuen Technologien, insbesondere AI und Blockchain bzw. Data Science im Allgemeinen (z.B. maschinelles Lernen, verteilte Datenbanksysteme, Cloud Computing) und arbeitet mit verschiedenen Programmiersprachen (z.B. Python, R).
+Raphael ist fasziniert von den Einsatzmöglichkeiten von neuen Technologien, insbesondere AI und Blockchain bzw. Data Science im Allgemeinen (z.B. maschinelles Lernen, verteilte Datenbanksysteme, Cloud Computing) und arbeitete mit verschiedenen Programmiersprachen (z.B. Python, R).
 
 Raphael studierte Diplom-Mathematik an der TU Kaiserslautern und National University of Singapur. Er erhielt u.a. ein Stipendium der Stiftung der Deutschen Wirtschaft und des China Scholarship Councils.
 Inzwischen ist Raphael als Vorsitzender des Alumni-Vereins der sdw und vertritt mehr als 2.200 Ehemalige.
@@ -26,9 +26,9 @@ Inzwischen ist Raphael als Vorsitzender des Alumni-Vereins der sdw und vertritt 
 Um sein Chinaverständnis zu verbessern, studierte Raphael Chinesisch an der Nankai Universität und Wirtschaft an der Renmin Universität. Er unterstützt als stellvertretender Vorsitzender den Deutsch-Chinesischen Verein zur Künstlichen Intelligenz und als Senior-Berater die Vereinigung chinesischer Akademiker des Finanzwesens (VCAF). Er spricht fließend Chinesisch (HSK-Stufe 5 von 6) und wohnt in Berlin.
 
 #### English
-Raphael is strategy consultant at BCG focusing on digitalization and banking IT. He has multiple years of experience in conceptual and operational data management, IT migration, quantitative risk assessment, implementation of new regulation within the financial risk management and project management.
+Raphael is strategy consultant at BCG focusing on digitalization and banking IT. He has multiple years of experience in conceptual and operational data management, IT migration, quantitative risk assessment, implementation of new regulation within the risk management and project management.
 
-Raphael is driven by use cases for new technologies, e.g., blockchain and AI, or more generally in data science (e.g., machine learning, distributed ledger technology, cloud computing) and works with different scripting languages (e.g., Python, R).
+Raphael is driven by use cases for new technologies, e.g., blockchain and AI, or more generally in data science (e.g., machine learning, distributed ledger technology, cloud computing) and worked with different scripting languages (e.g., Python, R).
 
 Raphael acquired German diploma in financial mathematics at Technical University of Kaiserslautern and National University of Singapore (NUS). Among other scholarships, he was awarded by Foundation of German Business (sdw) and by China Scholarship Council. Today, Raphael acts as chairman of the organization sdw Alumni e.V. dedicated to >2.200 alumni.
 
