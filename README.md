@@ -32,3 +32,10 @@ Shan is a research engineer at Zalando, working on statistical methods of A/B te
 
 ### Social
 LinkedIn: linkedin.com/in/cnshanhuang
+
+## Jing Yuan
+### Bio
+#### English
+Jing Yuan is now a Ph.D. student at Distributed Artificial Intelligence Laboratory at Technische Universität Berlin (TUB). Prior to joining DAI-Labor, she received her master from University of Science and Technology of China (USTC) Bachelor from China Agricultural University (CAU) respectively.
+#### Chinese
+袁婧目前是柏林工业大学分布式人工智能实验室的在读博士生。在此之前，她在中国科学技术大学取得了硕士学位，并于中国农业大学取得了本科学位。
