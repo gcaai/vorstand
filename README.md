@@ -13,6 +13,34 @@ LinkedIn: https://de.linkedin.com/in/hxiao87
 Twitter: https://twitter.com/hxiao
 Github: https://github.com/hanxiao
 
+## Raphael Kohler 拉斐尔
+### Bio
+#### German
+Raphael arbeitet als Strategieberater bei BCG im Bereich Digitalisierung und Banken-IT. Er hat mehrere Jahre Erfahrung bei der konzeptionellen und operativen Datenmanagement, IT-Migrationen, quantitative Risikobewertung, Implementierung von neuen Verordnungen im finanziellen Risikomanagement und Projektmanagement.
+
+Raphael ist fasziniert von den Einsatzmöglichkeiten von neuen Technologien, insbesondere AI und Blockchain bzw. Data Science im Allgemeinen (z.B. maschinelles Lernen, verteilte Datenbanksysteme, Cloud Computing) und arbeitet mit verschiedenen Programmiersprachen (z.B. Python, R).
+
+Raphael studierte Diplom-Mathematik an der TU Kaiserslautern und National University of Singapur. Er erhielt u.a. ein Stipendium der Stiftung der Deutschen Wirtschaft und des China Scholarship Councils.
+Inzwischen ist Raphael als Vorsitzender des Alumni-Vereins der sdw und vertritt mehr als 2.200 Ehemalige.
+
+Um sein Chinaverständnis zu verbessern, studierte Raphael Chinesisch an der Nankai Universität und Wirtschaft an der Renmin Universität. Er unterstützt als stellvertretender Vorsitzender den Deutsch-Chinesischen Verein zur Künstlichen Intelligenz und als Senior-Berater die Vereinigung chinesischer Akademiker des Finanzwesens (VCAF). Er spricht fließend Chinesisch (HSK-Stufe 5 von 6) und wohnt in Berlin.
+
+#### English
+Raphael is strategy consultant at BCG focusing on digitalization and banking IT. He has multiple years of experience in conceptual and operational data management, IT migration, quantitative risk assessment, implementation of new regulation within the financial risk management and project management.
+
+Raphael is driven by use cases for new technologies, e.g., blockchain and AI, or more generally in data science (e.g., machine learning, distributed ledger technology, cloud computing) and works with different scripting languages (e.g., Python, R).
+
+Raphael acquired German diploma in financial mathematics at Technical University of Kaiserslautern and National University of Singapore (NUS). Among other scholarships, he was awarded by Foundation of German Business (sdw) and by China Scholarship Council. Today, Raphael acts as chairman of the organization sdw Alumni e.V. dedicated to >2.200 alumni.
+
+To get a better understanding he studied Chinese language in Nankai University and economics at Renmin University. Raphael currently serves as vice chairman of the German-Chinese Association of Artificial Intelligence (GCAAI) and as senior advisor at Association of Chinese Professionals in Finance (VCAF). He is fluent in Chinese (passed HSK level 5 of 6) and based in Berlin.
+
+### Social
+LinkedIn: https://de.linkedin.com/in/raphaelkohler
+Xing: https://www.xing.com/profile/Raphael_Kohler拉斐尔
+Facebook: https://www.facebook.com/basketball.germany
+Github: https://github.com/analytics-germany
+
+
 ## Dr. Hao Wu
 ### Bio
 #### English
