@@ -39,3 +39,5 @@ LinkedIn: linkedin.com/in/cnshanhuang
 Jing Yuan is now a Ph.D. student at Distributed Artificial Intelligence Laboratory at Technische Universität Berlin (TUB). Prior to joining DAI-Labor, she received her master degree from University of Science and Technology of China (USTC) and bachelor degree from China Agricultural University (CAU) respectively.
 #### Chinese
 袁婧目前是柏林工业大学分布式人工智能实验室的在读博士生。在此之前，她在中国科学技术大学取得了硕士学位，并于中国农业大学取得了本科学位。
+#### Deutsch
+Jing Yuan promoviert zur Zeit in Distributed Artificial Intelligence Laboratory an der TU Berlin. Davor hattet sie ihr Master und Bachelor jeweils von Universität für Wissenschaft und Technologie von China und China Landwirtschaftliche Universität bekommen. 
