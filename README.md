@@ -79,5 +79,5 @@ Jing Yuan is now a Ph.D. student at Distributed Artificial Intelligence Laborato
 袁婧目前是柏林工业大学分布式人工智能实验室的在读博士生。在此之前，她在中国科学技术大学取得了硕士学位，并于中国农业大学取得了本科学位。
 
 #### German
-Jing Yuan promoviert zur Zeit am Labor für verteilte künstliche Intelligenz an der TU Berlin. Davor schloss sie ihr Studium an Universität für Wissenschaft und Technologie von China mit einem Master und  und China Landwirtschaftliche Universität mit einem Bachelor ab. 
+Jing Yuan promoviert zur Zeit am Labor für verteilte künstliche Intelligenz an der TU Berlin. Davor schloss sie ihr Studium an der Universität für Wissenschaft und Technologie von China mit einem Master und an Chinas Landwirtschaftlichen Universität mit einem Bachelor ab. 
 @Jing: What was your major?
