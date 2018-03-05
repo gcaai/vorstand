@@ -81,3 +81,16 @@ Jing Yuan is now a Ph.D. student at Distributed Artificial Intelligence Laborato
 #### German
 Jing Yuan promoviert zur Zeit am Labor für verteilte künstliche Intelligenz an der TU Berlin. Davor schloss sie ihr Studium an der Universität für Wissenschaft und Technologie von China mit einem Master und an Chinas Landwirtschaftlichen Universität mit einem Bachelor ab. 
 @Jing: What was your major?
+
+
+## Dr. Kashif Rasul
+### Bio
+#### English
+
+Kashif is a senior research scientist at Zalando research where he is working on utilizing Deep Reinforcement Learning for a number of Zalando usecases. Prior to that, he was in the Price and Sales forecasting team at Zalando. He completed his PhD. in Mathematics at the Freie Universität Berlin and his Masters from Monash University in Melbourne and still teaches the Deep Learning class at Freie Universität Berlin once a semester.
+
+
+### Social
+* LinkedIn: www.linkedin.com/in/kashif-rasul
+* Twitter: https://twitter.com/krasul
+* Github: https://github.com/kashif
